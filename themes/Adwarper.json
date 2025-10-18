@@ -118,7 +118,8 @@
 			"scope": [
 				"keyword.control.c",
 				"keyword.control",
-				"keyword.other"
+				"keyword.other",
+				"keyword.declaration"
 			],
 			"settings": {
 				"foreground": "#5d91df"

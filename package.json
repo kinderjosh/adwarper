@@ -2,7 +2,7 @@
   "name": "adwarper",
   "displayName": "Adwarper",
   "description": "Color theme for VSCode inspired by Adwaita and ReSharper.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "engines": {
     "vscode": "^1.105.0"
   },
