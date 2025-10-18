@@ -200,7 +200,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#96cadf"
 			}
 		},
 		{
@@ -210,7 +210,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#96cadf"
 			}
 		},
 		{
@@ -286,8 +286,7 @@
 				"variable.language"
 			],
 			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#FF5370"
+				"foreground": "#96cadf"
 			}
 		},
 		{
